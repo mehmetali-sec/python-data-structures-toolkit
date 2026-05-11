@@ -1,6 +1,4 @@
-Kesinlikle haklısın, GitHub global bir platform ve İngilizce kullanmak senin vizyonunu ve profesyonelliğini gösterir. 1. sınıftayken yaptığın bu çalışmaları "Legacy" (Miras/Geçmiş) projesi olarak sunmak, teknik olgunluğunu kanıtlar.
 
-İşte depon (repository) için hazırladığım tamamen profesyonel İngilizce README.md içeriği:
 
 📚 Python Data Structures Toolkit (Freshman Year Archive)
 This repository serves as a curated archive of fundamental data structures I implemented during my 1st year (2025) of Computer Engineering.
